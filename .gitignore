@@ -1,0 +1,12 @@
+*.mp4
+*.wav
+*.out
+*.png
+*.jpg
+*.MOV
+*.json
+.DS_Store
+._.DS_Store
+.ipynb_checkpoints/
+*.txt
+Wav2Lip
